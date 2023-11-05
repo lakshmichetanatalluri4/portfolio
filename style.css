@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    max-width: 800PX;
+    padding: 20PX;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2em;
+}
+img{
+height:300px;
+width:300px;
+}
+header p {
+    font-size: 1.2em;
+    color: #555;
+}
+
+div{
+    margin-bottom: 30px;
+}
+
+h2 {
+    border-bottom: 2px solid #333;
+    font-size: 1.5em;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 5px 0;
+}
+
+.contact p {
+    margin: 10px 0;
+}
+.profile-photo {
+    max-width: 150px; 
+    border-radius: 50%; 
+}
+.resume a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff; /* Change to your preferred color */
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}-
